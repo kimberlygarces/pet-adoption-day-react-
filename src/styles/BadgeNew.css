@@ -1,0 +1,15 @@
+.BadgeNew__hero {
+    width: 100%;
+    padding: 2rem 0;
+    background: url('../images/stars.svg'), #7d7bf793; 
+    background-repeat: repeat; 
+    margin-bottom: 1rem;
+    color: #ffffff;
+  }
+
+  .BadgeNew__hero-img{
+    border-radius: 50%;
+    width: 90px;
+    height: auto;
+    margin-left: 10px;
+  }
