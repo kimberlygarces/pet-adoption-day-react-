@@ -1,7 +1,16 @@
 import React from 'react';
+import '../styles/Badge__NotFount.css'
+import NotFoundIMG from '../images/error.png'
+
 
 function NotFound(){
-    return <h1>404: not fount</h1>
+    return (
+    <div className="Badge__NotFount">
+        <h6>Error 404</h6>
+        <img className="Badge__NotFount-img" src={NotFoundIMG} alt="Conf"></img>
+    </div>
+    
+    )
 }
 
 export default NotFound
