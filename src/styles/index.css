@@ -1,4 +1,4 @@
-.Badge__NotFount{
+.Badge__index{
     width: 100%;
     height: 100%;
     background: url('../images/stars.svg'), #7d7bf793; 
@@ -7,15 +7,14 @@
     text-align: center;
     padding: 2rem;
 }
-h4{
+h6{
     font-family: 'Yellowtail', cursive;
     font-style: italic;
-    /* font-size: 100px; */
+    font-weight: 300px;
 }
 
 
-.Badge__NotFount-img{
+.Badge__index-img{
     margin: 2rem;
-    border-radius: 800px;
-    height: 300px;
+    height: 400px;
 }

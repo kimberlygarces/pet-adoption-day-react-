@@ -6,7 +6,7 @@ import NotFoundIMG from '../images/error.png'
 function NotFound(){
     return (
     <div className="Badge__NotFount">
-        <h6>Error 404</h6>
+        <h4>Error 404</h4>
         <img className="Badge__NotFount-img" src={NotFoundIMG} alt="Conf"></img>
     </div>
     
